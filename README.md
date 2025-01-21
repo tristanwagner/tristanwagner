@@ -3,7 +3,7 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=tristanwagner&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=tristanwagner&layout=compact&hide_border=true&theme=gruvbox&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=tristanwagner&theme=gruvbox&hide_border=true&background=FFFFFF00">
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=tristanwagner&theme=gruvbox&hide_border=true&background=FFFFFF00"> has issues -->
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=tristanwagner&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /></p>
 </p>
 
